@@ -34,7 +34,7 @@ Installation
 
 bash
 
-git clone https://github.com/yourusername/vigenere-cryptanalysis.git
+git clone https://github.com/bosota-the-boron/vigenere-cryptanalysis.git
 
 Navigate to the project directory:
 
